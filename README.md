@@ -24,10 +24,10 @@ A centralized system designed to monitor, manage, and control IoT devices throug
 - Implemented data handling and integration  
 
 ## Screenshots
-<!-- Add your images here -->
-![Dashboard](dashboard.png)
+![Login Page](login-page.png)
 ![Device Management](device-management.png)
-![Control Panel](control-panel.png)
+![Dashboard](dashboard.png)
+![Charge Monitoring](charge-monitoring.png)
 
 ## System Workflow
 
