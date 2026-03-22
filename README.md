@@ -1,24 +1,33 @@
-## IoT Management Portal
+# IoT Management Portal
 
 ## Description
-A system designed to monitor and manage IoT devices centrally.
+A centralized system designed to monitor, manage, and control IoT devices through a unified interface.
 
 ## Features
-- Device monitoring
-- Data collection
-- Centralized control system
+- Real-time device monitoring  
+- Data collection and management  
+- Centralized control system  
+- Device status tracking and alerts  
+- Report generation for device activity  
 
-## Technologies
-- Python
-- MySQL
-- Figma
-- HTML
-- CSS
-- Javascript
+## Technologies Used
+- Python  
+- MySQL  
+- HTML  
+- CSS  
+- JavaScript  
+- Figma (UI Design)  
 
-## My Role
-- Backend logic
-- System design
+## My Contribution
+- Developed backend logic for device management  
+- Designed system architecture and workflow  
+- Implemented data handling and integration  
+
+## Screenshots
+<!-- Add your images here -->
+![Dashboard](dashboard.png)
+![Device Management](device-management.png)
+![Control Panel](control-panel.png)
 
 ## System Workflow
 
@@ -48,7 +57,7 @@ A system designed to monitor and manage IoT devices centrally.
 - User selects time range and devices  
 - System fetches historical data  
 - Generates usage and status reports  
-- Displays results in table or graph format
+- Displays results in table or graph format  
 
 ## System Design Overview
 The system follows a centralized architecture where all IoT devices are managed through a backend server. It handles authentication, device communication, data storage, and reporting in a structured workflow.
